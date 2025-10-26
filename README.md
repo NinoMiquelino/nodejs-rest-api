@@ -78,9 +78,9 @@ nodejs-rest-api/
 ├── README.md
 ├── .gitignore
 └── 📁 src/
-         ├── data.json           <-- Onde os dados dos livros são armazenados
-         ├── books.model.js      <-- Lógica de I/O de arquivos e manipulação de dados
-         └── books.controller.js <-- Lógica de Roteamento e Regras de Negócio
+         ├── data.json          
+         ├── books.model.js      
+         └── books.controller.js 
 ```
 ---
 
