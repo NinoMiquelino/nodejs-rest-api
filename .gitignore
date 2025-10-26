@@ -1,0 +1,14 @@
+# --- BACKEND (Node.js) ---
+node_modules/           # dependências Node
+package-lock.json       # lockfile do npm
+.env                    # variáveis de ambiente
+*.log                   # logs de execução
+/dist/                  # builds/transpiles, caso use
+
+# --- IDE / Editor ---
+/.idea
+/.vscode
+
+# --- Sistema / OS ---
+.DS_Store
+Thumbs.db
