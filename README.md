@@ -55,13 +55,13 @@ Este projeto implementa uma API RESTful completa (CRUD - Create, Read, Update, D
 
 Abra o terminal na pasta raiz do projeto (`/nodejs-rest-api`) e execute:
 
-# 1. Inicializa o projeto Node.js (cria o package.json)
+1. Inicializa o projeto Node.js (cria o package.json)
 npm init -y
 
-# 2. Instala o framework Express como dependência principal
+2. Instala o framework Express como dependência principal
 npm install express
 
-# 3. Instala o nodemon para reiniciar o servidor automaticamente em mudanças
+3. Instala o nodemon para reiniciar o servidor automaticamente em mudanças
 npm install -D nodemon
 
 ---
