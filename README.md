@@ -58,6 +58,7 @@ Abra o terminal na pasta raiz do projeto (`/nodejs-rest-api`) e execute:
 ```bash
 1. Inicializa o projeto Node.js (cria o package.json)
 npm init -y
+```
 
 2. Instala o framework Express como dependência principal
 npm install express
